@@ -1,6 +1,6 @@
 # H-DV_IA-2
 <hr/>
-This Repo contains the Global trade analysis of Countries Australia, USA and Canada over the years 1988-2016 and for 12 different category.
+This Repo contains the Global trade analysis of Countries Australia, USA and Canada over the years 1988-2016 and for 12 different category done by me in my BTech Semester-3
 <br/><br/>
 <img src = "Images/Intoduction.PNG" width = "1000">
 <img src = "Images/Slide_1.PNG" width = "1000">
